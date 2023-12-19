@@ -1,0 +1,11 @@
+clearbit:
+  target: dev
+  outputs:
+    dev:
+      dbname: mage
+      host: host.docker.internal
+      password: postgres
+      port: 5432
+      schema: public
+      type: postgres
+      user: postgres

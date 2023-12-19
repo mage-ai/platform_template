@@ -1,0 +1,4 @@
+projects:
+  default_repo: {}
+  marketing:
+    path: growth/marketing
